@@ -179,3 +179,4 @@ while (totalEmployeeHours <= MAX_HOURS_IN_MONTH && totalWorkingDays < NUM_OF_WOR
 }
 
 console.log("\nShowing Daily Wages and Hours Worked Using Objects : " + employeeDailyWageAndHoursArray);
+console.log(employeeDailyWageAndHoursArray);
