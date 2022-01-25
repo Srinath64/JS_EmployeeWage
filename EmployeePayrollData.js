@@ -66,5 +66,5 @@ employeePayrollData.id = 0;
 employeePayrollData.name = "Jeff";
 console.log(employeePayrollData.toString());
 
-let teresaPayrollData = new EmployeePayrollData(1, "Terrisa", 30000, "F", new Date());
-console.log(teresaPayrollData.toString());
+let terrisaPayrollData = new EmployeePayrollData(1, "Terrisa", 30000, "F", new Date());
+console.log(terrisaPayrollData.toString());
